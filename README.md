@@ -6,10 +6,12 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0027-remove-element) |
 ## Math
 |  |
 | ------- |
