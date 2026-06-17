@@ -20,6 +20,7 @@
 | [0009-palindrome-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
