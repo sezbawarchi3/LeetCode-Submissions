@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -49,4 +50,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
