@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -46,6 +47,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0035-search-insert-position) |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
