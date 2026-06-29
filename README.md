@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0169-majority-element) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
