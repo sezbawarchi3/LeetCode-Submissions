@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1580-shuffle-the-array) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -94,4 +96,13 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
