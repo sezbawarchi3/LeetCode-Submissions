@@ -44,6 +44,7 @@
 | [0069-sqrtx](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0258-add-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
