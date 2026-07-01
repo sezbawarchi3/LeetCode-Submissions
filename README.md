@@ -45,6 +45,7 @@
 | [0070-climbing-stairs](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0263-ugly-number) |
 ## Hash Table
 |  |
 | ------- |
