@@ -30,6 +30,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1580-shuffle-the-array) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@
 | [0231-power-of-two](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0263-ugly-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
