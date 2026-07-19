@@ -6,7 +6,6 @@ public:
         while(i < salary.size() - 1){
             sum += salary[i++];
         }
-        return (double
-        )sum/(i - 1);
+        return (double)sum/(i - 1);
     }
 };
