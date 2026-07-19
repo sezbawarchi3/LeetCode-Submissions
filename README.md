@@ -59,6 +59,7 @@
 | [0231-power-of-two](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0263-ugly-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
