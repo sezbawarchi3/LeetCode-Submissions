@@ -37,6 +37,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/2058-concatenation-of-array) |
+| [3324-split-the-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/3324-split-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0169-majority-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0389-find-the-difference) |
+| [3324-split-the-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/3324-split-the-array) |
 ## String
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [3324-split-the-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/3324-split-the-array) |
 ## Greedy
 |  |
 | ------- |
