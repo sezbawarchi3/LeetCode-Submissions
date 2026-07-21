@@ -17,6 +17,7 @@
 | [0054-spiral-matrix](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0137-single-number-ii) |
@@ -47,6 +48,7 @@
 | [0027-remove-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0389-find-the-difference) |
