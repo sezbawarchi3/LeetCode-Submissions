@@ -51,6 +51,7 @@
 | [0031-next-permutation](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -64,6 +65,7 @@
 | [0066-plus-one](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0263-ugly-number) |
@@ -75,6 +77,7 @@
 | [0001-two-sum](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [3324-split-the-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/3324-split-the-array) |
