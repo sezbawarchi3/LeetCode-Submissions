@@ -24,6 +24,7 @@
 | [0137-single-number-ii](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0485-max-consecutive-ones) |
@@ -69,6 +70,7 @@
 | [0231-power-of-two](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
@@ -79,6 +81,7 @@
 | [0169-majority-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [3324-split-the-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/3324-split-the-array) |
 ## String
@@ -104,6 +107,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -139,6 +143,7 @@
 | [0136-single-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
@@ -158,6 +163,7 @@
 | [0088-merge-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
