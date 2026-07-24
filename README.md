@@ -39,6 +39,7 @@
 | [1580-shuffle-the-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/2058-concatenation-of-array) |
 | [3324-split-the-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/3324-split-the-array) |
