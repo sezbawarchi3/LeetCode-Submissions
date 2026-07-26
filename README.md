@@ -109,6 +109,7 @@
 | [0657-robot-return-to-origin](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [0258-add-digits](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0682-baseball-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -207,4 +209,5 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0682-baseball-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
