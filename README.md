@@ -31,6 +31,7 @@
 | [0485-max-consecutive-ones](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0792-binary-search) |
@@ -77,6 +78,7 @@
 | [0258-add-digits](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
@@ -174,6 +176,7 @@
 | [0242-valid-anagram](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Counting
