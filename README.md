@@ -58,6 +58,7 @@
 | [0202-happy-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
@@ -98,6 +99,7 @@
 | [0242-valid-anagram](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
@@ -125,6 +127,7 @@
 | [0053-maximum-subarray](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 ## Memoization
 |  |
