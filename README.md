@@ -37,6 +37,7 @@
 | [0792-binary-search](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0932-monotonic-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0932-monotonic-array) |
+| [1319-unique-number-of-occurrences](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -93,6 +94,7 @@
 | [0242-valid-anagram](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0389-find-the-difference) |
+| [1319-unique-number-of-occurrences](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1319-unique-number-of-occurrences) |
 | [3324-split-the-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/3324-split-the-array) |
 ## String
 |  |
