@@ -82,6 +82,7 @@
 | [0258-add-digits](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0504-base-7](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -110,6 +111,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0392-is-subsequence) |
+| [0504-base-7](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
