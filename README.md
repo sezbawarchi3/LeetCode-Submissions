@@ -86,6 +86,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1965-sum-of-digits-in-base-k](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1965-sum-of-digits-in-base-k) |
 ## Hash Table
 |  |
 | ------- |
