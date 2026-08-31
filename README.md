@@ -86,6 +86,7 @@
 | [0268-missing-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0935-orderly-queue](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0935-orderly-queue) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1965-sum-of-digits-in-base-k) |
@@ -120,6 +121,7 @@
 | [0504-base-7](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0742-to-lower-case) |
+| [0935-orderly-queue](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0935-orderly-queue) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -200,6 +202,7 @@
 | [0268-missing-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0935-orderly-queue](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0935-orderly-queue) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Counting
@@ -227,4 +230,8 @@
 | ------- |
 | [0682-baseball-game](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0935-orderly-queue](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0935-orderly-queue) |
 <!---LeetCode Topics End-->
