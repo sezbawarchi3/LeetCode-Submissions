@@ -99,6 +99,7 @@
 | [0268-missing-number](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1319-unique-number-of-occurrences) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3324-split-the-array](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/3324-split-the-array) |
 ## String
 |  |
@@ -118,6 +119,7 @@
 | [0657-robot-return-to-origin](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
