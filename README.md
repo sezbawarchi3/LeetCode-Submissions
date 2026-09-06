@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
@@ -228,10 +229,15 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Lexicographically Minimal String Rotation
 |  |
 | ------- |
 | [0935-orderly-queue](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0935-orderly-queue) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
