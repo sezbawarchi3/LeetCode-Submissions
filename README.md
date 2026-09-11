@@ -66,6 +66,7 @@
 | [0392-is-subsequence](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -244,4 +245,5 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sezbawarchi3/LeetCode-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
